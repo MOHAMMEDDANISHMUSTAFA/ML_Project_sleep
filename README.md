@@ -1,4 +1,5 @@
-Machine Learning Project: Predicting sleep variables in mammals
+Machine Learning Project: Predicting sleep variables in mammals:
+The study aims to build a predictive model for sleeping attributes like TotalSleep and Dreaming, utilizing a mix of general, ecological, and biological factors. It also investigates correlations between diet groups, endangerment status, or Genus, and these sleep characteristics. Feature engineering and selection methods will be employed, followed by rigorous model training, evaluation, and deployment. The process involves comprehensive data analysis, including exploratory analysis, feature selection, and data preparation. Machine learning algorithms are then trained, tested, and evaluated, with the most suitable one selected. Finally, the chosen model is deployed on GitHub for accessibility and potential collaboration, forming a systematic approach to building and deploying robust machine learning solutions.
 
 To use this project on a new environment, download requirements.txt and run this command:
 
