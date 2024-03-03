@@ -6,6 +6,10 @@ To use this project on a new environment, download requirements.txt and run this
 
 $ conda create --name <env_name> --file requirements.txt
 
+Clone the repository:
+
+git clone https://github.com/MOHAMMEDDANISHMUSTAFA/ML_Project_sleep.git.
+
 
 This repository contains the following files Resources and requirements:
 
