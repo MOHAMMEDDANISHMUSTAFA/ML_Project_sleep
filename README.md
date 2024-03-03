@@ -17,8 +17,13 @@ This repository contains the following files Resources and requirements:
 
 •	sleep_merged.tsv: original dataset, built from above resources, containing 87 rows of mammals sleeping attributes.
 
+
 Group submission:
 
 •	ML project.ipynb: project submission as a Jupyter Notebook, containing data analysis and model training and evaluation.
 
 •	Report_Project.pdf: Project report detailing analysis method and results interpretation.
+
+Contact:
+For any inquiries or feedback, please contact [MOHAMMED DANISH MUSTAFA](mailto:modamu96@gmail.com).
+
