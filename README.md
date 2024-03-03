@@ -29,5 +29,5 @@ Group submission:
 •	Report_Project.pdf: Project report detailing analysis method and results interpretation.
 
 Contact:
-For any inquiries or feedback, please contact [MOHAMMED DANISH MUSTAFA](mailto:modamu96@gmail.com).
+For any inquiries or feedback, please contact (mailto:modamu96@gmail.com),[MOHAMMED DANISH MUSTAFA].
 
